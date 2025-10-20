@@ -44,7 +44,7 @@ Más información: [https://creativecommons.org/licenses/by/4.0/](https://creati
   📍 Albacete, España  
   📧 info@marpe-estilo.com  
 
-- **Publicado por:** [Grupo Claravisión](https://www.claravision.es)  
+- **Publicado por:** [Grupo Claravisión](https://www.grupoclaravision.es)  
   📊 Proyecto de datos abiertos en salud visual  
 
 ---
@@ -65,3 +65,4 @@ Puedes seguir su evolución o contribuir a futuras versiones mediante *issues* o
 ---
 
 © 2025 Óptica Marpe Estilo · Publicado por Grupo Claravisión
+
