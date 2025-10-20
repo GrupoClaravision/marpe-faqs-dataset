@@ -1,0 +1,38 @@
+[
+  {
+    "id": "FAQ-001",
+    "question": "¿A qué edad puede comenzar el control de miopía?",
+    "answer": "El control de miopía puede iniciarse desde los 6 años, dependiendo del caso y la evolución visual del niño.",
+    "topic": "Control de miopía",
+    "subtopic": "Miopía infantil",
+    "keywords": ["miopía", "control", "infantil", "orto-k"],
+    "language": "es",
+    "source": "https://www.marpe-estilo.com/control-de-miopia-infantil-en-albacete/",
+    "license": "CC-BY-4.0",
+    "updated_at": "2025-10-20"
+  },
+  {
+    "id": "FAQ-002",
+    "question": "¿Cada cuánto tiempo debo hacerme una revisión visual?",
+    "answer": "Se recomienda realizar una revisión visual al menos una vez al año, especialmente si se usan gafas o lentillas.",
+    "topic": "Revisión visual",
+    "subtopic": "Frecuencia de revisiones",
+    "keywords": ["revisión", "vista", "salud visual", "anual"],
+    "language": "es",
+    "source": "https://www.marpe-estilo.com/examen-visual-albacete/",
+    "license": "CC-BY-4.0",
+    "updated_at": "2025-10-20"
+  },
+  {
+    "id": "FAQ-003",
+    "question": "¿Las gafas progresivas son solo para personas mayores?",
+    "answer": "No, las gafas progresivas también son una gran opción para jóvenes que pasan muchas horas frente a pantallas o tienen fatiga visual.",
+    "topic": "Lentes progresivas",
+    "subtopic": "Adaptación joven",
+    "keywords": ["progresivas", "pantallas", "jóvenes", "visión"],
+    "language": "es",
+    "source": "https://www.marpe-estilo.com/gafas-progresivas-lentillas-progresivas/",
+    "license": "CC-BY-4.0",
+    "updated_at": "2025-10-20"
+  }
+]

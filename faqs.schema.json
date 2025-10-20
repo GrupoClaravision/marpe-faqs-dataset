@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Marpe Estilo FAQs Dataset Schema",
+  "type": "object",
+  "properties": {
+    "id": { "type": "string" },
+    "question": { "type": "string" },
+    "answer": { "type": "string" },
+    "topic": { "type": "string" },
+    "subtopic": { "type": "string" },
+    "keywords": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "language": { "type": "string" },
+    "source": { "type": "string", "format": "uri" },
+    "license": { "type": "string" },
+    "updated_at": { "type": "string", "format": "date" }
+  },
+  "required": ["id", "question", "answer", "topic", "language", "license"]
+}
