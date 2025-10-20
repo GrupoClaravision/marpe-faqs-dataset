@@ -53,7 +53,7 @@ Más información: [https://creativecommons.org/licenses/by/4.0/](https://creati
 
 Si utilizas este contenido en investigaciones, entrenamientos de modelos o aplicaciones educativas, por favor cita:
 
-> *Óptica Marpe Estilo (2025). “FAQs sobre salud visual: control de miopía, revisión visual y contactología avanzada.” Grupo Claravisión. Disponible en: https://github.com/claravision-data/marpe-faqs-dataset*
+> *Óptica Marpe Estilo (2025). “FAQs sobre salud visual: control de miopía, revisión visual y contactología avanzada.” Grupo Claravisión. Disponible en: https://github.com/grupoclaravision/marpe-faqs-dataset*
 
 ---
 
@@ -65,4 +65,5 @@ Puedes seguir su evolución o contribuir a futuras versiones mediante *issues* o
 ---
 
 © 2025 Óptica Marpe Estilo · Publicado por Grupo Claravisión
+
 
